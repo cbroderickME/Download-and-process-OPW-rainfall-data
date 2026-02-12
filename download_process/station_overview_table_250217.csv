@@ -1,0 +1,74 @@
+#Status,Station,Station,Timestamp,Rainfall last 24hr total
+< 2 mm,80709,Ballinatona Water Treatment Plant,2025-02-17T11:45:00.000Z,1
+10 - 20 mm,81903,Ballingeary,2025-02-17T11:45:01.000Z,10.2
+< 2 mm,80711,Ballydesmond Pump house,2025-02-17T12:00:00.000Z,2
+< 2 mm,80722,Ballyguyroe Landfill Site,2025-02-17T12:00:00.000Z,0.4
+no rainfall,80707,Ballyhoura Way Water Intake Works,2025-02-17T12:00:00.000Z,
+no rainfall,81633,Ballylanders,2025-02-17T12:00:00.000Z,
+no rainfall,81610,Ballymacarbry Chip Depot,2025-02-17T10:30:00.000Z,
+no rainfall,81202,Ballynagee,2025-02-17T12:00:00.000Z,
+no rainfall,81604,Ballyporeen Reservoir,2025-02-17T11:45:00.000Z,
+no rainfall,80726,Bartlemy Pump House,2025-02-17T12:00:00.000Z,
+< 2 mm,80701,Bottle Hill - Pump House,2025-02-17T12:00:00.000Z,1.4
+< 2 mm,80706,Buttevant Pump House,2025-02-17T12:00:00.000Z,0.4
+< 2 mm,80702,Bweeng Pump House,2025-02-17T12:00:00.000Z,0.8
+no rainfall,81605,Cahir Wastewater Treatment Plant,2025-02-17T11:45:00.000Z,
+20 - 30 mm,81601,Cappaghnagarrane Reservoir,2025-02-17T11:45:00.000Z,27
+no rainfall,80731,Cappoquin,2025-02-17T12:00:00.000Z,
+< 2 mm,80601,Carlingford Fire Station,2025-02-17T12:00:00.000Z,0.4
+outdated value,80602,Carlingford Libary,2025-02-10T23:15:01.000Z,3
+no rainfall,81623,Cashel Wastewater Treatment Plant,2025-02-17T11:45:00.000Z,
+no rainfall,80725,Castlecooke Pump House,2025-02-17T12:00:00.000Z,
+no rainfall,81635,Clogheen Wastewater Treatment Plant,2025-02-17T12:00:00.000Z,
+no rainfall,81201,Coolcots Reservoir,2025-02-17T11:45:00.000Z,
+no rainfall,80728,Coole Pump House,2025-02-17T12:00:00.000Z,
+5 - 10 mm,81904,Coolea,2025-02-17T11:45:01.000Z,7.2
+2 - 5 mm,81901,Crookstown,2025-02-17T11:45:01.000Z,4.2
+no rainfall,81631,Cullen,2025-02-17T11:45:00.000Z,
+no rainfall,80719,Doneraile Pump House,2025-02-17T12:00:00.000Z,
+2 - 5 mm,80713,Duhallow Way Reservoir,2025-02-17T12:00:00.000Z,4.8
+< 2 mm,81630,Dundrum Reservoir,2025-02-17T11:45:00.000Z,0.2
+no rainfall,81636,Feddans,2025-02-17T11:45:00.000Z,
+< 2 mm,80727,Fermoy Pumphouse,2025-02-17T12:00:00.000Z,0.2
+< 2 mm,81608,Fethard Town Reservoir,2025-02-17T11:45:00.000Z,0.2
+< 2 mm,80708,Freemount Wastewater Treatment Plant,2025-02-17T12:00:00.000Z,1.2
+no rainfall,81606,"Garryduff, Ardfinnan",2025-02-17T11:45:00.000Z,
+< 2 mm,81613,Gortnahoe Wastewater Treatment Plant,2025-02-17T11:45:00.000Z,0.2
+< 2 mm,80714,Kanturk Wastewater Treatment Plant,2025-02-17T12:00:00.000Z,1.2
+2 - 5 mm,83801,Kerrykeel,2025-02-17T12:00:00.000Z,4
+< 2 mm,80720,Kilbrin Reservoir,2025-02-17T12:00:00.000Z,1.6
+no rainfall,81607,Kilcoran Depot,2025-02-17T12:00:00.000Z,
+2 - 5 mm,80704,Kilcorney Reservoir,2025-02-17T12:00:00.000Z,2.4
+< 2 mm,80723,Kildorrey Sewage Works,2025-02-17T12:00:00.000Z,0.2
+< 2 mm,82701,KIlkee Lower,2025-02-17T11:45:01.000Z,1.6
+< 2 mm,80732,Killavullen Water Treatment Plant,2025-02-17T12:00:00.000Z,1
+no rainfall,81622,Killenaule Wastewater Treatment Plant,2025-02-17T12:00:00.000Z,
+no rainfall,81616,Killough Hill Reservoir,2025-02-17T11:45:00.000Z,
+< 2 mm,80716,Kishkeam Wastewater treatment,2025-02-17T12:00:00.000Z,1.2
+< 2 mm,81902,Knockarourke,2025-02-17T12:00:01.000Z,1.6
+no rainfall,81609,Knocklofty Bridge,2025-02-17T12:00:00.000Z,
+< 2 mm,81603,Knockmealdown Mts. Water Treatment Plant,2025-02-17T12:00:00.000Z,0.2
+< 2 mm,80712,Knocknagree Old Pump House,2025-02-17T12:00:00.000Z,0.6
+no rainfall,81611,Knocknaree Nire Site,2025-02-17T12:00:00.000Z,
+< 2 mm,82302,Lisloose Reservoir,2025-02-17T11:45:00.000Z,0.2
+no rainfall,80730,Lismore Reservoir,2025-02-17T12:00:00.000Z,
+2 - 5 mm,80703,Lyre Reservoir,2025-02-17T12:00:00.000Z,4.4
+< 2 mm,80715,Mallow Pump House,2025-02-17T12:00:00.000Z,1
+2 - 5 mm,80705,Millstreet Reservoir,2025-02-17T12:00:00.000Z,4.8
+no rainfall,80724,Mitchelstown Water Treatment Plant,2025-02-17T12:00:00.000Z,
+no rainfall,81634,Mountain Barracks,2025-02-17T12:00:00.000Z,
+no rainfall,81602,New Inn (Jamestown),2025-02-17T12:00:00.000Z,
+< 2 mm,80710,Newmarket Reservoir,2025-02-17T12:00:00.000Z,1
+no rainfall,80718,Pallas Old Pump House,2025-02-17T12:00:00.000Z,
+< 2 mm,80101,Raphoe,2025-02-17T12:00:00.000Z,1.9
+< 2 mm,80717,Rathcoole Wastewater Treatment Plant,2025-02-17T12:00:00.000Z,2
+< 2 mm,81626,Rathmoy Pumping Station,2025-02-16T20:00:00.000Z,1.2
+no rainfall,81615,Rosegreen Reservoir,2025-02-17T12:00:00.000Z,
+no rainfall,81614,Rossadrehid Reservoir,2025-02-17T12:00:00.000Z,
+no rainfall,81621,Stooke Reservoir,2025-02-17T11:45:00.000Z,
+< 2 mm,80729,Tallow Reservoir,2025-02-17T12:00:00.000Z,0.2
+< 2 mm,81619,Templemore Water Treatment Plant,2025-02-17T12:00:00.000Z,0.2
+no rainfall,81625,Templetouhy Reservoir,2025-02-17T12:00:00.000Z,
+no rainfall,81612,Tooreen West Nire Site,2025-02-17T12:00:00.000Z,
+no rainfall,81632,Tournanena,2025-02-17T12:00:00.000Z,
+< 2 mm,80721,Two Pot House Reservoir,2025-02-17T12:00:00.000Z,0.4
